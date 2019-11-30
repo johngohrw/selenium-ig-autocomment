@@ -15,7 +15,7 @@ import datetime
 
 username_credentials = ''
 password_credentials = ''
-post_id = 'B5FkvNIppAB'
+post_id = ''
 comment_to_spam = ''
 spam_interval = 123
 spam_limit = 500
