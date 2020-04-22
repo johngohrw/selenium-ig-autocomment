@@ -17,9 +17,8 @@ username_credentials = ''
 password_credentials = ''
 post_id = ''
 comment_to_spam = ''
-spam_interval = 123
-spam_limit = 500
-
+spam_interval = 123  # in seconds
+spam_limit = 500  # terminates when the amount of posts reaches the spam limit.
 #===================================
 
 trackfile = open('trackfile.txt', 'r')
